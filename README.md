@@ -1,1 +1,1 @@
-# JMazure-Python-CLass
+# JMazure-Python-Class
